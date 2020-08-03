@@ -1,2 +1,3 @@
 # none
-there has none!
+There has none!
+Haha！ None，also！
